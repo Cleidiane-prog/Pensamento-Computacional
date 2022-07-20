@@ -1,2 +1,2 @@
-#pensamento computacional
+# pensamento computacional
 Cleidiane Nunes Normando
